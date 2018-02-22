@@ -1,3 +1,5 @@
+def test = 'test'
+
 def info(message) {
     echo "INFO: ${message}"
 }
