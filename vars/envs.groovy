@@ -1,1 +1,4 @@
-def TEST='test'
+def get(){
+    String TEST = 'test'
+    return TEST
+}
