@@ -1,1 +1,1 @@
-env.CURRENT_DEV_BRNACH='my-dev-branch'
+def TEST='test'
