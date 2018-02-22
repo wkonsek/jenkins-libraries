@@ -7,7 +7,7 @@ def warning(message) {
 }
 
 def set(){
-    environment {
-    	TEST='test'
-    }
+    
+   env.TEST='test'
+   
 }
